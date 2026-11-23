@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_E2E_User_Booking_Flow</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>muhammadfarhansyah2017@gmail.com;</mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>fd42bb1b-1a8f-47cd-8455-848d35110ecd</testSuiteGuid>
+   <testCaseLink>
+      <guid>ec304b93-7d27-4c67-9feb-5e98c8fb987f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenario/Make Appointment/TCP001_Make_Appointment</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>70e181c0-7255-4774-8e3c-b86936826c43</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0e4d8b2f-7e3a-4935-8495-c8573dc23fea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f92ca66a-2e7c-4e15-814b-7461bdad4d3b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>db78d844-e4ee-4b57-b6e7-d4f82535a0b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>31efd281-e030-469e-9b95-448e28c125ea</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
